@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "price": 24970,
+      "image": "https://toyota.com.ua/assets/cache_image/uploads/fastUpload/camrynew_1600x900_766.jpg.webp"
+    },
+    {
+      "id": 2,
+      "name": "BMW M5",
+      "price": 25970,
+      "image": "https://motorcar.com.ua/wp-content/uploads/2021/01/2022-bmw-m5-cs.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "price": 14970,
+      "image": "https://www.najzazitky.sk/sub/najzazitky.sk/shop/product/jazda-na-ford-mustang-challenge-36.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet Camaro",
+      "price": 34970,
+      "image": "https://gossipvehiculo.com/wp-content/uploads/2022/11/camaro-4.png"
+    },
+    {
+      "name": "McLaren",
+      "price": "100500",
+      "image": "https://kor.ill.in.ua/m/1200x0/2593808.jpg",
+      "id": 5
+    },
+    {
+      "name": "McLaren",
+      "price": "100500",
+      "image": "https://3dnews.ru/assets/external/illustrations/2021/02/17/1032821/00.jpg",
+      "id": 6
+    },
+    {
+      "name": "Korch",
+      "price": "Free",
+      "image": "https://i.pinimg.com/originals/3a/3c/48/3a3c48f8a6f2e2fa51537426bc731393.jpg",
+      "id": 7
+    },
+    {
+      "name": "Korch2",
+      "price": "1",
+      "image": "https://ireland.apollo.olxcdn.com/v1/files/si89543grf1v-UA/image;s=644x461",
+      "id": 8
+    }
+  ]
+}
